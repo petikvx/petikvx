@@ -31,6 +31,6 @@
 </div>
 
 
-  <img align='left' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=klezVirus&layout=compact&theme=dark" width="350"/>
-  <img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=klezVirus&show_icons=true&theme=dark" width="350"/>
+  <img align='left' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=petikvx&layout=compact&theme=dark" width="350"/>
+  <img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=petikvx&show_icons=true&theme=dark" width="350"/>
 
