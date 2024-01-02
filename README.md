@@ -25,6 +25,10 @@
   <br/>
 </em></p>
 
+<div align="center" style="vertical-align:top;">
+<div align="center" style="vertical-align:bottom;">
+
+
   <a href="https://twitter.com/petikvx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petikvx" height="30" width="40" /></a>
   <a href="https://petikvx.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="petikvx" height="30" width="40" /></a>
 </div>
