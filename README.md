@@ -1,40 +1,44 @@
-```
-╭━━━╮╱╱╭╮╱╭╮╭━┳╮╱╱╭┳━╮╭━╮
-┃╭━╮┃╱╭╯╰╮┃┃┃╭┫╰╮╭╯┣╮╰╯╭╯
-┃╰━╯┣━┻╮╭╋┫╰╯╯╰╮┃┃╭╯╰╮╭╯
-┃╭━━┫┃━┫┃┣┫╭╮┃╱┃╰╯┃╱╭╯╰╮
-┃┃╱╱┃┃━┫╰┫┃┃┃╰╮╰╮╭╯╭╯╭╮╰╮
-╰╯╱╱╰━━┻━┻┻╯╰━╯╱╰╯╱╰━╯╰━╯
+# petikvx
 
+**Malware research enthusiast** · Windows internals · Reverse engineering · Detection research
 
-██████╗░███████╗████████╗██╗██╗░░██╗██╗░░░██╗██╗░░██╗
-██╔══██╗██╔════╝╚══██╔══╝██║██║░██╔╝██║░░░██║╚██╗██╔╝
-██████╔╝█████╗░░░░░██║░░░██║█████═╝░╚██╗░██╔╝░╚███╔╝░
-██╔═══╝░██╔══╝░░░░░██║░░░██║██╔═██╗░░╚████╔╝░░██╔██╗░
-██║░░░░░███████╗░░░██║░░░██║██║░╚██╗░░╚██╔╝░░██╔╝╚██╗
-╚═╝░░░░░╚══════╝░░░╚═╝░░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝
-```
-<p align="center"><em>Junior Malware Researcher Noob<br>
-  I am working on malware mechanics. xD
-  <br/>
-  <br/>
-  <a href="https://twitter.com/petikvx" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/petikvx?style=flat-square"/></a>
-  <a href="https://github.com/petikvx" target="blank"><img align="center" src="https://img.shields.io/github/followers/petikvx?label=follow%20github&style=flat-square)](https://github.com/petikvx"/></a>
-  <img align="center" src="https://komarev.com/ghpvc/?username=petikvx"/>
+---
 
-  <br/>
-</em></p>
+## About
 
-<div align="center" style="vertical-align:top;">
-<div align="center" style="vertical-align:bottom;">
+Passionate about understanding how malware works from the inside out — static and dynamic analysis, deobfuscation, Windows internals, and building detection-oriented tooling.  
+I learn by breaking things, reading disassembly, and sharing what I find.
 
+---
 
-  <a href="https://twitter.com/petikvx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petikvx" height="30" width="40" /></a>
-  <a href="https://petikvx.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="petikvx" height="30" width="40" /></a>
-</div>
-</div>
+## Focus areas
 
+- 🔬 Malware analysis — static & dynamic
+- 🪟 Windows internals & PE format
+- 🔍 Reverse engineering (x86/x64)
+- 🛡️ Detection research & evasion techniques
+- 🐍 Scripting & automation for analysis workflows
 
-  <img align='left' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=petikvx&layout=compact&theme=dark" width="350"/>
-  <img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=petikvx&show_icons=true&theme=dark" width="350"/>
+---
+
+## Tools & languages
+
+`Python` · `C` · `C++` · `Assembly (x86/x64)` · `PowerShell`  
+`IDA Pro / Ghidra` · `x64dbg / WinDbg` · `YARA` · `Wireshark` · `Volatility`
+
+---
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/@petikvx-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/petikvx)
+[![GitHub](https://img.shields.io/badge/petikvx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/petikvx)
+[![Blog](https://img.shields.io/badge/petikvx.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://petikvx.github.io)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petikvx&layout=compact&theme=dark&hide_border=true" height="150" alt="Top languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=petikvx&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
+</p>
 
