@@ -30,7 +30,7 @@ I learn by breaking things, reading disassembly, and sharing what I find.
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/@petikvx-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/petikvx)
+[![Twitter](https://img.shields.io/badge/@petikvx-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/petikvx)
 [![GitHub](https://img.shields.io/badge/petikvx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/petikvx)
 [![Blog](https://img.shields.io/badge/petikvx.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://petikvx.github.io)
 
